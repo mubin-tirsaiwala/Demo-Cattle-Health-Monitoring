@@ -20,3 +20,7 @@ All the models work continuously and keep logging the daily data along with the 
 ---
 This dashboard continuously gets data from the source where the data from sensors are logged in real time. User can see the real time statistics of the animal for the past 24 hours.  
 
+
+
+https://user-images.githubusercontent.com/73985159/145363179-ed11461f-b624-4e5a-8d55-ab5140a2eb2e.mp4
+
